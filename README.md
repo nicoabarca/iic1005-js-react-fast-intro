@@ -12,11 +12,10 @@ Esta es una introducción rápida a JavaScript y React más que nada para explic
 # ¿ Qué es JavaScript ?
 
 ### Descripción larga 🤯:
-
-	Lenguaje de alto nivel, single threaded, garbage collected, interpretado o compilado JIT, basado en prototipo, multiparadigma, dinámico con un loop de eventos no bloqueante.
+Lenguaje de alto nivel, single threaded, garbage collected, interpretado o compilado JIT, basado en prototipo, multiparadigma, dinámico con un loop de eventos no bloqueante.
 
 ### Descripción corta 😁:
-	Lenguaje de programación/scripting usado principalmente para la construcción de páginas web. Actualmente también es ejecutado en entornos fuera de un navegador.
+Lenguaje de programación/scripting usado principalmente para la construcción de páginas web. Actualmente también es ejecutado en entornos fuera de un navegador.
 
 # ¿ Qué vamos a aprender de JavaScript ? 
 
