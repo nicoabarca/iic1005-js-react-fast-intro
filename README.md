@@ -26,8 +26,9 @@ Lenguaje de programación/scripting usado principalmente para la construcción d
 5. Loops
 6. Funciones
 7. Métodos de arrays
-8. Expresiones y operadores
-9. Manipulación de documentos HTML mediante el DOM
+8. Destructuring y Spread syntax
+9. Expresiones y operadores
+10. Manipulación de documentos HTML mediante el DOM
 
 Todo el código de ejemplo esta en `js-material/`
 
