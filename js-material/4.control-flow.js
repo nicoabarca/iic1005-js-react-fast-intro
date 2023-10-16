@@ -5,6 +5,7 @@
 let num1 = 10;
 let num2 = 5;
 
+// bloque if-else if-else
 if (num1 > num2) {
     console.log("num1 es mayor que num2");
 } else if (num1 < num2) {
@@ -13,6 +14,7 @@ if (num1 > num2) {
     console.log("num1 y num2 son iguales");
 }
 
+// bloque switch 
 let day = "lunes";
 switch (day) {
     case "lunes":
@@ -29,6 +31,7 @@ switch (day) {
         break;
 }
 
+// operador ternario
 let age = 18;
 let canVote = age >= 18 ? "Yes" : "No";
 console.log(canVote); // Output: "Yes"

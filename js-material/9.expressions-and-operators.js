@@ -21,6 +21,7 @@ a **= 2; // equivalente a = a ** 2;
 
 // Operadores de comparación 
 // IMPORTANTE: siempre al hacer comparación de igualdad entre valores ocupar === o !==
+// JavaScript tiene resultados de comparaciones muy raras con == o !=, ver https://dorey.github.io/JavaScript-Equality-Table/
 let b = 5;
 let c = "5";
 let isEqual = b == c; // igualdad floja, true

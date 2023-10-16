@@ -3,23 +3,23 @@
 // Un literal es una representación de un valor en código. En JavaScript, hay varios tipos de literales.
 
 // Literales de números
-let entero = 42;
-let flotante = 3.14159;
+let integer = 42;
+let float = 3.14159;
 
 // Literales de string
-let cadenaSimple = 'Hola';
-let cadenaDoble = "Mundo";
-let cadenaTemplate = `La respuesta es ${entero}`;
+let simpleQuoteString = 'Hola';
+let doubleQuoteString = "Mundo";
+let templateString = `La respuesta es ${entero}`;
 
 // Literales booleanos
-let verdadero = true;
-let falso = false;
+let isTrue = true;
+let isFalse = false;
 
 // Literales de objeto
-let objeto = { nombre: 'Juan', edad: 30 };
+let object = { nombre: 'Juan', edad: 30 };
 
 // Literales de arreglo
-let arreglo = [1, 2, 3];
+let array = [1, 2, 3];
 
 // Literales de expresiones regulares
-let expresionRegular = /\w+/; // Una expresión regular que coincide con una o más letras, números o guiones bajos
+let regex = /\w+/; // Una expresión regular que coincide con una o más letras, números o guiones bajos
